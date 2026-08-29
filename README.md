@@ -4,10 +4,11 @@
 
 An setup.ini configurator and optimizer for FPS Creator Classic. Designed to maximize performance, tweak lighting bake quality, prevent 2GB RAM crashes, and optimize graphic settings for any hardware — from low-end Intel HD integrated GPUs to high-end dedicated gaming graphics cards.
 
-<img width="912" height="726" alt="obrázok" src="https://github.com/user-attachments/assets/0ec39a1a-dc77-4426-8497-8ba818c03b6b" />
+<img width="915" height="674" alt="obrázok" src="https://github.com/user-attachments/assets/d20f6985-bf67-477f-b7df-c51d7a019b8b" />
 
 
-🚀 Features
+
+**🚀 Features**
 
 🖥️ Dual Interface: Runs in a modern GUI (Tkinter Dark Mode) or a lightweight Console / CLI mode.
 
@@ -25,7 +26,8 @@ An setup.ini configurator and optimizer for FPS Creator Classic. Designed to max
 
 🎮 Hardware Profiles Breakdown
 
-Profile
+
+**Profile**
 
 ⚡ Extreme Performance
 Intel HD 2000–4000, GMA, Old Laptops
@@ -47,5 +49,8 @@ All visual effects maxed out, real-time dynamic shadows, 2K lightmaps (lightmapt
 Any PC (Aesthetic Mode)
 Extreme 12.5% texture compression (dividetexturesize=4) for authentic Quake/Doom 90s graphics.
 
-📥 Installation & Running
+
+
+**📥 Installation & Running**
+
 Just copy FPSCreator_Configurator.exe to your FPS Creator Classic dir and run it.
