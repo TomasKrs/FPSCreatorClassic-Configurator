@@ -1,14 +1,18 @@
 # FPSCreatorClassic-Configurator
 
-🎮 FPS Creator Classic - Setup Configurator PRO
-
 An setup.ini configurator and optimizer for FPS Creator Classic. Designed to maximize performance, tweak lighting bake quality, prevent 2GB RAM crashes, and optimize graphic settings for any hardware — from low-end Intel HD integrated GPUs to high-end dedicated gaming graphics cards.
 
 <img width="915" height="674" alt="obrázok" src="https://github.com/user-attachments/assets/d20f6985-bf67-477f-b7df-c51d7a019b8b" />
 
 
+## **What do you need**
 
-**🚀 Features**
+FPS Creator Classic updated to version 1.20
+BlackIceMode v12
+
+I didnt test it on Steam release and BlackIceModAdvanced. It wouldnt work there (because of other parameters in setup.ini).
+
+## **🚀 Features**
 
 🖥️ Dual Interface: Runs in a modern GUI (Tkinter Dark Mode) or a lightweight Console / CLI mode.
 
@@ -27,7 +31,7 @@ An setup.ini configurator and optimizer for FPS Creator Classic. Designed to max
 🎮 Hardware Profiles Breakdown
 
 
-**Profile**
+## **Profile**
 
 ⚡ Extreme Performance
 Intel HD 2000–4000, GMA, Old Laptops
@@ -51,6 +55,6 @@ Extreme 12.5% texture compression (dividetexturesize=4) for authentic Quake/Doom
 
 
 
-**📥 Installation & Running**
+## **📥 Installation & Running**
 
 Just copy FPSCreator_Configurator.exe to your FPS Creator Classic dir and run it.
